@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#searchbar, #image {
+    text-align: center;
+}
+
+#text {
+    margin-bottom: 20px;
+    border-radius: 25px;
+    border: 1px solid #d3d3d3;
+    border-style: solid;
+    padding: 12px 150px;
+    text-align: center;
+}
+#searchsubmit, #lucky {
+    border-color: white;
+    color: grey;
+    border-style: solid;
+    padding: 12px 20px;
+}
+   
+#links {
+    text-align: end;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: black;
+    text-decoration: none;
+}
+
+#image {
+    margin-bottom: 20px;
+    margin-top: 110px;
+    padding: 10px 18px;
+}
+
+.form {
+    margin-left: 100px;
+}
+
+label {
+    display: inline;
+    float: left;
+    clear: left;
+    width: 250px;
+    text-align: left;  
+    margin-top: 20px;
+}
+
+input {
+    margin-top: 20px;
+    padding: 6px 40px;
+    border: 1px solid #d3d3d3;
+}
+
+#advancedsubmit {
+    background-color:#2681E5;
+    border:1px solid#247AD8;
+    color: white;
+    padding: 5px 40px;
+    font-weight: bold;
+    margin-left: 285px;
+}
+
+#header {
+    color: red;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    font-size: larger;
+}
+
+line {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+#image-advanced {
+    margin-bottom: 20px;
+    margin-top: 5px;
+    padding: 5px 9px;
+}
